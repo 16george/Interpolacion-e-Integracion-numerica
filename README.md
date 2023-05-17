@@ -8,8 +8,6 @@ Matematica is a repository that contains scripts for interpolation, arc length, 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## 📖 About the Project
 
